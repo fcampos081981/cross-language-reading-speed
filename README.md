@@ -98,71 +98,120 @@ Rust 1.88.0
 
 ## Tests
 ```
-
+ 
 **********************************************************************
 Java Execution Report
-Start Time: 10:19:57
-End Time: 10:20:02
-Execution Duration: 00:00:05
-Memory Usage: 17461637120 bytes (16652,71 MB, 16,26 GB)
-Free Memory: 15776952320 bytes (15046,07 MB, 14,69 GB)
-CPU Time in User Mode: 6090000000 ns
+Start Time: 11:01:38
+End Time: 11:01:42
+Execution Duration: 00:00:03
+Memory Usage: 30104805376 bytes (28710,18 MB, 28,04 GB)
+Free Memory: 3133784064 bytes (2988,61 MB, 2,92 GB)
+CPU Time in User Mode: 4860000000 ns
 Process CPU Load: 0,00%
 Total Records in File: /home/usuario/outfiles/output_java_output.txt
-File with Listed Files Total Lines: 915614
-Output File Size: 98037832 bytes (93,50 MB, 0,09 GB)
+File with Listed Files Total Lines: 915859
+Output File Size: 98065507 bytes (93,52 MB, 0,09 GB)
 **********************************************************************
 
 
 **********************************************************************
 GO
-Start: 10:20:20
-End: 10:20:25
-Execution time: 00:00:04
-CPU usage: 73.85%
-Memory RSS: 10080256 bytes (9.61 MB, 0.01 GB)
-Memory VMS: 1939148800 bytes (1849.32 MB, 1.81 GB)
+Start: 11:01:48
+End: 11:01:52
+Execution time: 00:00:03
+CPU usage: 73.28%
+Memory RSS: 9990144 bytes (9.53 MB, 0.01 GB)
+Memory VMS: 1940000768 bytes (1850.13 MB, 1.81 GB)
 File with listed files: /home/usuario/outfiles/outputoutput_go.txt
 **********************************************************************
 
 
 **********************************************************************
 Python
-Start: 28/07/2025 10:20:42
-End: 28/07/2025 10:20:47
-Execution time: 5.2410 seconds
+Start: 28/07/2025 11:01:56
+End: 28/07/2025 11:02:00
+Execution time: 4.2842 seconds
 CPU usage: 0.0%
-CPU time in user mode: 4.63 seconds
-CPU time in kernel mode: 0.81 seconds
-Memory usage: 35348480 bytes (33.71 MB, 0.03 GB) (RSS)
+CPU time in user mode: 3.78 seconds
+CPU time in kernel mode: 0.7 seconds
+Memory usage: 36249600 bytes (34.57 MB, 0.03 GB) (RSS)
 Percentage of memory used: 0.11%
 **********************************************************************
 
 
 **********************************************************************
+Node.js with TypeScript
+Start: 11:02:07
+End: 11:02:13
+Execution time: 00:00:05
+Memory usage: 17712136192 bytes (16891.61 MB, 16.50 GB)
+CPU time in user mode (ms): 4.091569
+File with listed files: /home/usuario/outfiles/output/output_node.txt
+**********************************************************************
+
+
+**********************************************************************
+C++
+Start: 11:03:22
+End: 11:03:24
+Execution time: 1.996840 seconds
+Memory usage:
+  Bytes: 3407872
+  Megabytes: 3.250000 MB
+  Gigabytes: 0.003174 GB
+CPU time in user mode: 0 ms
+Kernel Mode CPU Time: 0 ms
+File with listed files: /home/usuario/outfiles/output/output_cpp.txt
+**********************************************************************
+
+**********************************************************************
 Ruby
-Start: 10:21:46
-End: 10:21:57
+Start: 11:03:27
+End: 11:03:39
 Execution time: 00:00:11
 Memory usage:
-  Bytes: 16990318592
-  Megabytes: 16203.23 MB
-  Gigabytes: 15.82 GB
+  Bytes: 30950834176
+  Megabytes: 29517.02 MB
+  Gigabytes: 28.83 GB
 CPU time in user mode: 00:00:11
 File with listed files: /home/usuario/outfiles/output/output_ruby.txt
+**********************************************************************
+File initialized.
+
+**********************************************************************
+Rust
+Start: 11:06:23
+End: 11:06:27
+Execution time: 00:00:03
+Memory usage (in bytes): 32104356249600
+CPU usage: 177.25%
+CPU time in user mode: 4 seconds
+File with listed files: /home/usuario/outfiles/output_rust.txt
 **********************************************************************
 
 **********************************************************************
 C#
-Start: 10:22:58
-End: 10:23:05
-Execution time: 00:00:06
-Memory usage (in bytes): 296222720
-Memory usage (in MB): 282.50
+Start: 11:07:48
+End: 11:07:55
+Execution time: 00:00:07
+Memory usage (in bytes): 301252608
+Memory usage (in MB): 287.30
 Memory usage (in GB): 0.28
-Total CPU time: 00:00:06.3470340
-CPU time in user mode: 00:00:02.9254690
-CPU time in kernel mode: 00:00:03.4215750
+Total CPU time: 00:00:07.1820900
+CPU time in user mode: 00:00:03.3322630
+CPU time in kernel mode: 00:00:03.8498420
 File with listed files: /home/usuario/outfiles/output/output_csharp.txt
 **********************************************************************
+
+**********************************************************************
+PHP
+Start: 14:09:45
+End: 14:09:49
+Execution time: 00:00:03
+Memory usage: 148978104 Bytes
+Memory usage: 142.08 MB
+Memory usage: 0.14 GB
+File with listed files: /home/usuario/outfiles/output/output-php.txt
+**********************************************************************
+
 ```
