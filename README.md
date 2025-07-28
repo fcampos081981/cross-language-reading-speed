@@ -1,7 +1,10 @@
-#cross-language-reading-speed
+# cross-language-reading-speed
 
 # IMPORTANT
 ```
+OS: 
+Linux usuario 6.14.0-24-generic #24~24.04.3-Ubuntu SMP PREEMPT_DYNAMIC Mon Jul 7 16:39:17 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
 ADD in /etc/environment use sudo
 
 export FILE_NAME_LIST_FILES="/home/usuario/outfiles/output"
